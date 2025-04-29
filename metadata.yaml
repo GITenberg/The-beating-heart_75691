@@ -1,5 +1,8 @@
 _repo: The-beating-heart_75691
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75691-h/images/cover.jpg
 creator:
   author:
     agent_name: Cross, Victoria
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1237
     wikipedia: https://en.wikipedia.org/wiki/Annie_Sophie_Cory
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75691#The-beating-heart
 gutenberg_issued: '2025-03-23'
 gutenberg_type: Text
 identifiers:
